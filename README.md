@@ -66,15 +66,15 @@ GROUP 3
 ...
 ```
 
-# Development
+## Development
 
 After cloning the repo, you could do `nosetests` to make sure all function works
 normally.
 
-# Contributing
+## Contributing
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/rafidaslam/xeople/.
 
-# License
+## License
 
 `xeople` is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
