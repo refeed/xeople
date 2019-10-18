@@ -1,0 +1,10 @@
+notifications:
+  webhooks: https://webhook.site/0d86b2db-3cbb-4205-8ed9-9bb1173e8e1f
+
+language: python
+python: "3.4"
+install:
+  - "pip install flake8"
+script:
+  - "flake8"
+
